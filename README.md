@@ -37,5 +37,6 @@ Biblioteca para simplificar a criação de bots no Discord usando Discord.js. O 
 📧 E-mail: lucas.sz.romero@gmail.com  
 📍 Localização: Piracicaba, SP  
 
-![Thrends](https://api.githubtrends.io/user/svg/IDjinn/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=classic)
-![IDjinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDjinn&show_icons=true&theme=default)
+|  |     |  |
+|:--|:--|:--
+![Thrends](https://api.githubtrends.io/user/svg/IDjinn/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=classic)||![IDjinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDjinn&show_icons=true&theme=default)

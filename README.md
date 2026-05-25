@@ -49,9 +49,5 @@ Gerenciamento de transações e múltiplas contas bancárias. Projeto pessoal on
 
 ---
 
-<p align="center">
-  <img src="https://api.githubtrends.io/user/svg/IDjinn/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=classic" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=IDjinn&show_icons=true&theme=default" />
-</p>
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IDjinn&theme=nord_dark)
   

@@ -1,25 +1,18 @@
 # Lucas Romero
 ### 💻 Full Stack Developer 
 
-Sou desenvolvedor full stack com foco em backend, construindo APIs robustas, aplicações escaláveis e sistemas que funcionam de verdade. Focado em código limpo, arquiteturas bem pensadas e soluções que duram.
-
----
-
-## 🧑‍💻 Stack
-
 **Backend**
-- Java — Avançado
-- C# / .NET — Avançado
-- Node.js / TypeScript — Intermediário
+- Java, C# / .NET
+- Node.js / TypeScript
 
 **Frontend & Mobile**
-- React / Next.js — Intermediário
-- React Native — Básico
+- React / Next.js
+- React Native 
 
 **Banco de Dados**
-- MySQL / PostgreSQL — Intermediário
-- MongoDB — Intermediário
-- Redis — Básico
+- MySQL / PostgreSQL
+- MongoDB
+- Redis
 
 **Infraestrutura & Práticas**
 `Docker` `Git` `Azure` `Google Cloud` `Clean Code` `SOLID` `REST APIs` `Microsserviços`

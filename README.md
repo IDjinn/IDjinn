@@ -1,5 +1,5 @@
 # Lucas Romero
-### 💻 Full Stack Developer | 
+### 💻 Full Stack Developer 
 
 Sou desenvolvedor full stack com foco em backend, construindo APIs robustas, aplicações escaláveis e sistemas que funcionam de verdade. Focado em código limpo, arquiteturas bem pensadas e soluções que duram.
 

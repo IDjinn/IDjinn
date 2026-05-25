@@ -28,6 +28,13 @@ Sou desenvolvedor full stack com foco em backend, construindo APIs robustas, apl
 
 ## 🚀 Projetos de Destaque
 
+### [Discord.js Collector](https://github.com/IDjinn/Discord.js-Collector) ⭐ 51 stars
+> Biblioteca open source para criação de bots no Discord
+
+Simplifica o manuseio de interações como botões, menus e reações. Usado por desenvolvedores para automatizar moderação e respostas em tempo real.
+
+---
+
 ### [Arceus Emulator](https://github.com/IDjinn/arceus-emulator)
 > Emulador de servidor de jogo inspirado no Habbo, em Java
 
@@ -42,17 +49,10 @@ Gerenciamento de transações e múltiplas contas bancárias. Projeto pessoal on
 
 ---
 
-### [Discord.js Collector](https://github.com/IDjinn/Discord.js-Collector) ⭐ 51 stars
-> Biblioteca open source para criação de bots no Discord
-
-Simplifica o manuseio de interações como botões, menus e reações. Usado por desenvolvedores para automatizar moderação e respostas em tempo real.
-
----
-
 ## 📫 Contato
 
 📧 lucas.sz.romero@gmail.com  
-📍 Piracicaba, SP
+📍 São Paulo - Brasil
 
 ---
 

@@ -15,7 +15,7 @@
 - Redis
 
 **Infrastructure & Development Practices**
-`Docker` `Git` `Azure` `Google Cloud` `Clean Code` `SOLID` `REST APIs` `Microsserviços`
+`Docker` `Git` `Azure` `Google Cloud` `Clean Code` `SOLID` `REST APIs` `Microservices`
 
 ---
 

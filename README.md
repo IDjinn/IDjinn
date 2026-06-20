@@ -9,36 +9,39 @@
 - React / Next.js
 - React Native 
 
-**Banco de Dados**
+**DB**
 - MySQL / PostgreSQL
 - MongoDB
 - Redis
 
-**Infraestrutura & Práticas**
+**Infrastructure & Development Practices**
 `Docker` `Git` `Azure` `Google Cloud` `Clean Code` `SOLID` `REST APIs` `Microsserviços`
 
 ---
 
-## 🚀 Projetos de Destaque
+## 🚀 Featured Projects
 
 ### [Discord.js Collector](https://github.com/IDjinn/Discord.js-Collector) ⭐ 51 stars
-> Biblioteca open source para criação de bots no Discord
 
-Simplifica o manuseio de interações como botões, menus e reações. Usado por desenvolvedores para automatizar moderação e respostas em tempo real.
+> Open-source library for Discord bot development
+
+Simplifies the handling of interactions such as buttons, select menus, and reactions. Used by developers to automate moderation tasks and real-time responses.
 
 ---
 
 ### [Arceus Emulator](https://github.com/IDjinn/arceus-emulator)
-> Emulador de servidor de jogo inspirado no Habbo, em Java
 
-Arquitetura orientada a SOLID, injeção de dependências com Guice e MySQL. Inclui sistema de comandos, catálogo, inventário, gerenciamento de eventos e suporte a plugins.
+> Java-based game server emulator inspired by Habbo
+
+Built with SOLID principles, dependency injection using Guice, and MySQL integration. Features a command system, catalog, inventory management, event handling, and plugin support.
 
 ---
 
-### [Finance](https://github.com:IDjinn/finance.git)
-> Aplicativo full stack para gestão financeira pessoal
+### [Finance](https://github.com/IDjinn/finance)
 
-Gerenciamento de transações e múltiplas contas bancárias. Projeto pessoal onde aplico as melhores práticas que aprendi na carreira.
+> Full-stack personal finance management application
+
+Provides transaction management and support for multiple bank accounts. A personal project where I apply the software engineering best practices I've learned throughout my career.
 
 ---
 

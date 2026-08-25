@@ -66,7 +66,7 @@ export function Hero() {
         </a>
         <a
           href={`mailto:${process.env.NEXT_PUBLIC_EMAIL}`}
-          className="inline-flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium text-white/40 transition-colors hover:text-white/70"
+          className="inline-flex items-center gap-2 rounded-lg border border-white/20 bg-white/5 px-4 py-2 text-sm font-medium text-white/80 backdrop-blur-sm transition-all hover:border-white/40 hover:bg-white/10 hover:text-white"
         >
           <Mail className="size-4" />
           Contato

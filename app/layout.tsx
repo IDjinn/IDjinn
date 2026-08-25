@@ -4,6 +4,7 @@ import './globals.css'
 import { SpaceBackground } from '@/components/space-background'
 import { Navbar } from '@/components/navbar'
 import { Footer } from '@/components/footer'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -35,6 +36,7 @@ export default function RootLayout({
         <Navbar />
         <main className="flex-1 pb-20">{children}</main>
         <Footer />
+        <SpeedInsights />
       </body>
     </html>
   )

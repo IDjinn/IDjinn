@@ -21,7 +21,7 @@ export async function getGithubRepos(username: string): Promise<GithubRepo[]> {
     expire: 60 * 60,
   })
   const res = await fetch(
-    `https://api.github.com/users/${username}/repos?sort=stars&per_page=30&type=owner`,
+    `https://api.github.com/users/${username}/repos?sort=pushed&per_page=30&type=owner`,
     {
       headers: {
         Accept: 'application/vnd.github.v3+json',

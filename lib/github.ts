@@ -11,7 +11,7 @@ export interface GithubRepo {
   fork: boolean
 }
 
-import { unstable_cacheLife as cacheLife } from 'next/cache'
+import { cacheLife } from 'next/cache'
 
 export async function getGithubRepos(username: string): Promise<GithubRepo[]> {
   'use cache'

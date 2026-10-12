@@ -15,7 +15,11 @@ import { unstable_cacheLife as cacheLife } from 'next/cache'
 
 export async function getGithubRepos(username: string): Promise<GithubRepo[]> {
   'use cache'
-  cacheLife('hours')
+  cacheLife({
+    stale: 300,
+    revalidate: 60 * 30,
+    expire: 60 * 60,
+  })
   const res = await fetch(
     `https://api.github.com/users/${username}/repos?sort=stars&per_page=30&type=owner`,
     {
